@@ -96,11 +96,11 @@ h6,h3{
 
 @media(max-width:525px){
     .container{
-        width: 430px;
+        width: 410px;
     }
     .mastercard img{
 
-        left: 350px;
+        left: 330px;
 
     }
 }
